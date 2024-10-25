@@ -54,7 +54,7 @@ Configure connection in backend/server.js. The DB runs by default on mongodb://1
 
 ### Install server and client dependencies
 
-````npm install````
+````npm install````\
 ````npm run setup-backend````
 
 ### Run server and client concurrently
